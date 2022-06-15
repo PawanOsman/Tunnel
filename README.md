@@ -3,7 +3,7 @@
 **Tunnel** is a free project made by "Pawan Osman", it will help you make your local projects online and share it with your friends.
 
 # How to use Tunnel?
-Just download the tunnel clinet and run it, it will automatically make a tunnel for port 80, or you can use arguments to set the port.
+Just download the tunnel client and run it, it will automatically make a tunnel for port 80, or you can use arguments to set the port.
 ## Sample Command
 
  `"tunnel-win.exe" --port=3000`
