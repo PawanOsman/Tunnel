@@ -23,9 +23,9 @@ To use Tunnel, simply download the client and run it on your machine. By default
 
 You can download Tunnel from the [GitHub releases page](https://github.com/PawanOsman/BotCrypt/releases). Simply click on the link for your platform to download the client:
 
--   [Windows x64](https://github.com/PawanOsman/BotCrypt/releases/download/0.1/tunnel-win.exe)
--   [Linux x64](https://github.com/PawanOsman/BotCrypt/releases/download/0.1/tunnel-linux)
--   [MacOS x64](https://github.com/PawanOsman/BotCrypt/releases/download/0.1/tunnel-macos)
+-   [Windows x64](https://github.com/PawanOsman/Tunnel/releases/download/0.1/tunnel-win.exe)
+-   [Linux x64](https://github.com/PawanOsman/Tunnel/releases/download/0.1/tunnel-linux)
+-   [MacOS x64](https://github.com/PawanOsman/Tunnel/releases/download/0.1/tunnel-macos)
 
 ## Conclusion
 
